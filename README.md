@@ -1,2 +1,3 @@
 # kafka-topic-creation-time
-Kafka Topic Creation Time
+Tiny util to get Kafka topics creation date<br>
+w/t concurrency limitation.
